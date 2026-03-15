@@ -27,6 +27,42 @@
 .App-link {
   color: #61dafb;
 }
+.btn{
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  border: 1px solid #414141;
+  cursor: pointer;
+}
+.btn-blue{
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  border: 2px solid #0051ff;
+  cursor: pointer;
+}
+.btn-blue{
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  border: 2px solid #5ee20d;
+  cursor: pointer;
+}
+.btn-red{
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  border: 2px solid #e20d0d;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: #282c34;
+  color: aliceblue;
+}
 
 @keyframes App-logo-spin {
   from {

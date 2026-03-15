@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 COUNTRY CAPITAL GAME
 
     FUNCTIONAL REQUIREMENT
